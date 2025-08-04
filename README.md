@@ -7,12 +7,39 @@
 
 - 📫 How to reach me: **deracvi@gmail.com**
 
+- <h1 align="center">Hello 👋, Victor here !</h1>
+<h3 align="center">Software Engineer</h3>
+
+- 🌱 I'm currently learning **Go (Golang)**
+- 💬 Ask me about **JavaScript, Next.js, and React**
+- 📫 How to reach me: **deracvi@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/victor-izuchukwu-a524b816a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Izuchukwu LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+<h3 align="left">🚀 Public Works:</h3>
+
+<div align="left">
+  
+**🌐 [Helium](https://www.heliumapp.io/)**  
+Creative OS
+`Next.js` `TypeScript` `Uppy` `Tailwind CSS` `Shadcn` `React query` `Tus`
+
+**🌐 [FBIS Tech](https://fbistech.com/)**  
+`Next.js` `TypeScript` `Tailwind CSS`
+
+**🌐 [Primeries](https://primeries-vendor.vercel.app/home)**  
+`Next.js` `TypeScript` `Framer motion`
+
+**🌐 [Upbeats](https://upbeatcentre.com/)**  
+Activity and Events booking, user front and dashbord.
+`Next.js` `TypeScript` `Tailwind CSS` `Shadcn` `Paystack Api` `Recharts `
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
