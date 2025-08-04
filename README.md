@@ -10,20 +10,19 @@
 <h3 align="left">🚀 Public Works:</h3>
 
 <div align="left">
-  
 **🌐 [Helium](https://www.heliumapp.io/)**  
 <p>Creative OS</p>
-<code>Next.js</code> `TypeScript` `Uppy` `Tailwind CSS` `Shadcn` `React query` `Tus`
+<code>Next.js</code> <code>TypeScript</code> <code>Uppy</code> <code>Tailwind CSS</code> <code>Shadcn</code> <code>React Query</code> <code>Tus</code>
 
 **🌐 [FBIS Tech](https://fbistech.com/)**  
-`Next.js` `TypeScript` `Tailwind CSS`
+<code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
 
 **🌐 [Primeries](https://primeries-vendor.vercel.app/home)**  
-`Next.js` `TypeScript` `Framer motion`
+<code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code>
 
 **🌐 [Upbeats](https://upbeatcentre.com/)**  
-<p>Activity and Events booking, user front and dashbord.</p>
-`Next.js` `TypeScript` `Tailwind CSS` `Shadcn` `Paystack Api` `Recharts `
+<p>Activity and Events booking, user front and dashboard.</p>
+<code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Shadcn</code> <code>Paystack API</code> <code>Recharts</code>
 </div>
 
 <h3 align="left">Connect with me:</h3>
