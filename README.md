@@ -13,7 +13,7 @@
   
 **🌐 [Helium](https://www.heliumapp.io/)**  
 <p>Creative OS</p>
-`Next.js` `TypeScript` `Uppy` `Tailwind CSS` `Shadcn` `React query` `Tus`
+<code>Next.js</code> `TypeScript` `Uppy` `Tailwind CSS` `Shadcn` `React query` `Tus`
 
 **🌐 [FBIS Tech](https://fbistech.com/)**  
 `Next.js` `TypeScript` `Tailwind CSS`
