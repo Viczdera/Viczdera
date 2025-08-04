@@ -7,13 +7,6 @@
 
 - 📫 How to reach me: **deracvi@gmail.com**
 
-- <h1 align="center">Hello 👋, Victor here !</h1>
-<h3 align="center">Software Engineer</h3>
-
-- 🌱 I'm currently learning **Go (Golang)**
-- 💬 Ask me about **JavaScript, Next.js, and React**
-- 📫 How to reach me: **deracvi@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/victor-izuchukwu-a524b816a/" target="blank">
