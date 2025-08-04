@@ -9,20 +9,25 @@
 
 <h3 align="left">🚀 Public Works:</h3>
 
-<div align="left">
+<div style="display:flex; flex-direction:column; gap:20px;">
+  <div style="display:flex; flex-direction:column; gap:2px;">
 **🌐 [Helium](https://www.heliumapp.io/)**  
 <p>Creative OS</p>
 <code>Next.js</code> <code>TypeScript</code> <code>Uppy</code> <code>Tailwind CSS</code> <code>Shadcn</code> <code>React Query</code> <code>Tus</code>
-
+  </div>
+  <div style="display:flex; flex-direction:column; gap:2px;">
 **🌐 [FBIS Tech](https://fbistech.com/)**  
 <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
-
+  </div>
+  <div style="display:flex; flex-direction:column; gap:2px;">
 **🌐 [Primeries](https://primeries-vendor.vercel.app/home)**  
 <code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code>
-
+  </div>
+  <div style="display:flex; flex-direction:column; gap:2px;">
 **🌐 [Upbeats](https://upbeatcentre.com/)**  
 <p>Activity and Events booking, user front and dashboard.</p>
 <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Shadcn</code> <code>Paystack API</code> <code>Recharts</code>
+  </div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
