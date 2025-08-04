@@ -12,7 +12,7 @@
 <div align="left">
   
 **🌐 [Helium](https://www.heliumapp.io/)**  
-Creative OS
+<p>Creative OS</p>
 `Next.js` `TypeScript` `Uppy` `Tailwind CSS` `Shadcn` `React query` `Tus`
 
 **🌐 [FBIS Tech](https://fbistech.com/)**  
@@ -22,7 +22,7 @@ Creative OS
 `Next.js` `TypeScript` `Framer motion`
 
 **🌐 [Upbeats](https://upbeatcentre.com/)**  
-Activity and Events booking, user front and dashbord.
+<p>Activity and Events booking, user front and dashbord.</p>
 `Next.js` `TypeScript` `Tailwind CSS` `Shadcn` `Paystack Api` `Recharts `
 </div>
 
